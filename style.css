@@ -1,0 +1,47 @@
+  *{
+    margin: 0px;
+    padding: 0px;
+  }
+  body{
+       background: linear-gradient(90deg,#1BA8AC,#177BA1);
+
+  }
+ .main{
+
+
+ }
+.mani{
+  background: linear-gradient(90deg,#9C1276,#700B70);
+  width: 750px;
+  margin: auto;
+  text-align: center;
+  margin-top: 500px;
+  padding: 40px;
+}
+.mani h2{
+  margin-bottom: 15px;
+  color: #FFFFFF;
+  font-weight: 900;
+}
+#temp{
+  font-size: 1px;
+  padding: 10px;
+}
+#temp_diff{
+  position: relative;
+  top: 2px;
+  padding: 7px 26px;
+}
+#sub{
+  margin-top: 9px;
+  padding: 8px 70px;
+  font-weight: 900;
+color: #FFFFFF;
+background-color: #54394E;
+outline-color: none;
+
+}
+#resultContainer{
+  position: relative;
+  top: 16px;
+}
